@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Our Scenes/Lobby.unity
+    guid: e84595e33b871bb43aa4f83ca7c1a854
+  - enabled: 1
+    path: Assets/Scenes/Our Scenes/Day Island.unity
+    guid: e7bddfa5ac636834db5fa6035a885af4
+  - enabled: 1
+    path: Assets/Scenes/Our Scenes/room.unity
+    guid: d90c9467bb9e8a94bb9ff141b1a28ceb
+  - enabled: 1
+    path: Assets/Scenes/Our Scenes/Night Island.unity
+    guid: 016c8957a1ee7a04a8a114df98500dc2
+  - enabled: 1
+    path: Assets/Scenes/Our Scenes/Credits.unity
+    guid: 296ed33b6ab95c345947a9a13d4c7e76
+  - enabled: 1
+    path: Assets/Scenes/Our Scenes/Loading Scene.unity
+    guid: c39d73d88545a8e4d9ee876e0aba6935
+  - enabled: 1
+    path: Assets/Scenes/Our Scenes/Player 2 Scene.unity
+    guid: 32215271b70fce648bb88dfa45d1bac2
+  - enabled: 0
+    path: Assets/Scenes/Player.unity
+    guid: 668fc79744f77824dabf6d8ca901338f
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 0
+    path: Assets/Scenes/ik Backup.unity
+    guid: 0d7795ab654554a45b8cf79859d63ffb
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/PA_AncientVillageNight.unity
+    guid: 1d00dc4e7bae7484f80d3b6d29165ed8
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 8a0d2b63e51e618459be216e51870b04, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 7e39a10aa29325c4895dac09511fd03f, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 5d270ad7d0fc27d429324dcc9810eebc, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ad32f9f198cc10140bfecbcd152c5039, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: e79c6a7593ae6c2478725325b4de472c, type: 2}

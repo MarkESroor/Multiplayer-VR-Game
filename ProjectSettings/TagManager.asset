@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Weapon
+  - ZombieBoi
+  - Bullet
+  - DButton
+  - EscapeWall
+  - OButton
+  - GButton
+  - LButton
+  - Wrong Button
+  - Portal
+  - Portal 2
+  - DontDestroy
+  - Treasure
+  - Spawn Points
+  - Network Player
+  - Arrow
+  - Network Player 1
+  - Network Player 2
+  - Saber
+  - LeverHori
+  - LeverVerti
+  - Sphere
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - grab
+  - player
+  - grab ignore ray
+  - avatars
+  - climbing walls
+  - hands
+  - buttons
+  - rig
+  - network player
+  - portal
+  - 7amdy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
